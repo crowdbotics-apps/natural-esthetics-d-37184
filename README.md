@@ -83,6 +83,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [react-native-login](modules/login)
 - [screen-contact-us](screens/contact-us)
 - [screen-review-add](screens/add-review)
+- [screen-add-card-details](screens/add-card-details)
 
 # Getting started: Frontend
 
