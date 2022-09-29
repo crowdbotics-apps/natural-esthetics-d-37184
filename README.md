@@ -84,6 +84,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-contact-us](screens/contact-us)
 - [screen-review-add](screens/add-review)
 - [screen-add-card-details](screens/add-card-details)
+- [screen-add-payment-method](screens/add-payment-method)
 
 # Getting started: Frontend
 
