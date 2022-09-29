@@ -72,6 +72,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-profile](screens/profile)
 - [screen-store-product-recommendation](screens/product-recommendation)
 - [screen-store-products-listing](screens/product-listing)
+- [screen-store-products-favorites](screens/product-favorite)
 
 # Getting started: Frontend
 
