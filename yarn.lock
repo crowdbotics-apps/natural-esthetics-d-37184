@@ -1278,10 +1278,13 @@
 "@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
-"@screens/book-appointment@file:./screens/book-appointment/":
+"@screens/book-appointment@file:./screens/book-appointment":
   version "1.0.0"
 
 "@screens/contact-us@file:./screens/contact-us":
+  version "1.0.0"
+
+"@screens/direct-messages@file:./screens/direct-messages/":
   version "1.0.0"
 
 "@screens/notifications-preference@file:./screens/notifications-preference":

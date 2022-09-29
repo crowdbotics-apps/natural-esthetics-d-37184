@@ -30,6 +30,7 @@
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/contact-us": "file:./screens/contact-us/",
+    "@screens/direct-messages": "file:./screens/direct-messages/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",
     "@screens/order-checkout": "file:./screens/order-checkout/",
