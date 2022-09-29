@@ -74,6 +74,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-store-products-listing](screens/product-listing)
 - [screen-store-products-favorites](screens/product-favorite)
 - [screen-privacy](screens/privacy)
+- [screen-privacy-policy](screens/privacy-policy)
 
 # Getting started: Frontend
 
