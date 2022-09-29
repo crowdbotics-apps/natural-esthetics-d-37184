@@ -26,6 +26,7 @@
     "@screens/add-card-details": "file:./screens/add-card-details/",
     "@screens/add-payment-method": "file:./screens/add-payment-method/",
     "@screens/add-review": "file:./screens/add-review/",
+    "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/notifications": "file:./screens/notifications/",

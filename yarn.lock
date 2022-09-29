@@ -1272,7 +1272,10 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
-"@screens/appointment-listing@file:./screens/appointment-listing/":
+"@screens/appointment-calendar@file:./screens/appointment-calendar/":
+  version "1.0.0"
+
+"@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
 "@screens/contact-us@file:./screens/contact-us":

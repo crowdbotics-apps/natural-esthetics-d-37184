@@ -89,6 +89,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-about-the-app](screens/about-the-app)
 - [screen-shopping-cart](screens/shopping-cart)
 - [screen-appointment-listing](screens/appointment-listing)
+- [screen-appointment-calendar-view](screens/appointment-calendar)
 
 # Getting started: Frontend
 
