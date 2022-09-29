@@ -66,6 +66,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-support-send-feedback](screens/support-send-feedback)
 - [react-native-splash](modules/splash)
 - [screen-signup](screens/signup)
+- [screen-signature](screens/signature)
 
 # Getting started: Frontend
 
