@@ -28,6 +28,7 @@
     "@screens/add-review": "file:./screens/add-review/",
     "@screens/appointment-calendar": "file:./screens/appointment-calendar/",
     "@screens/appointment-listing": "file:./screens/appointment-listing/",
+    "@screens/book-appointment": "file:./screens/book-appointment/",
     "@screens/contact-us": "file:./screens/contact-us/",
     "@screens/notifications": "file:./screens/notifications/",
     "@screens/notifications-preference": "file:./screens/notifications-preference/",

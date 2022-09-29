@@ -1278,6 +1278,9 @@
 "@screens/appointment-listing@file:./screens/appointment-listing":
   version "1.0.0"
 
+"@screens/book-appointment@file:./screens/book-appointment/":
+  version "1.0.0"
+
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
@@ -1335,7 +1338,7 @@
 "@screens/user-subscribed@file:./screens/user-subscribed":
   version "1.0.0"
 
-"@screens/wallet@file:./screens/create-appointment/":
+"@screens/wallet@file:./screens/create-appointment":
   version "1.0.0"
 
 "@sideway/address@^4.1.3":
