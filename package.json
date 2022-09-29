@@ -47,6 +47,7 @@
     "@screens/support-send-feedback": "file:./screens/support-send-feedback/",
     "@screens/user-address": "file:./screens/user-address/",
     "@screens/user-subscribed": "file:./screens/user-subscribed/",
+    "@screens/wallet": "file:./screens/create-appointment/",
     "axios": "^0.21.1",
     "react": "17.0.1",
     "react-dom": "^18.2.0",
