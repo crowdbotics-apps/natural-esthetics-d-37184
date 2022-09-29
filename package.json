@@ -20,6 +20,7 @@
     "@react-navigation/native": "^5.9.3",
     "@react-navigation/stack": "^5.14.3",
     "@reduxjs/toolkit": "^1.5.0",
+    "@screens/product-recommendation": "file:./screens/product-recommendation/",
     "@screens/profile": "file:./screens/profile/",
     "@screens/signature": "file:./screens/signature/",
     "@screens/signup": "file:./screens/signup/",
