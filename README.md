@@ -93,6 +93,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-appointment-create](screens/create-appointment)
 - [screen-appointment-booking](screens/book-appointment)
 - [screen-direct-messages](screens/direct-messages)
+- [screen-messages-listing](screens/messages-listing)
 
 # Getting started: Frontend
 
