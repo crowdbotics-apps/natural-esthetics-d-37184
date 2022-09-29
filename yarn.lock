@@ -1250,7 +1250,10 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/order-summary@file:./screens/order-summary/":
+"@screens/order-complete@file:./screens/order-complete/":
+  version "1.0.0"
+
+"@screens/order-summary@file:./screens/order-summary":
   version "1.0.0"
 
 "@screens/privacy-policy@file:./screens/privacy-policy":

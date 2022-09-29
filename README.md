@@ -76,6 +76,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [screen-privacy](screens/privacy)
 - [screen-privacy-policy](screens/privacy-policy)
 - [screen-order-summary](screens/order-summary)
+- [screen-order-complete](screens/order-complete)
 
 # Getting started: Frontend
 
