@@ -1272,6 +1272,9 @@
 "@screens/add-review@file:./screens/add-review":
   version "1.0.0"
 
+"@screens/appointment-listing@file:./screens/appointment-listing/":
+  version "1.0.0"
+
 "@screens/contact-us@file:./screens/contact-us":
   version "1.0.0"
 
@@ -1308,7 +1311,7 @@
 "@screens/profile@file:./screens/profile":
   version "1.0.0"
 
-"@screens/shopping-cart@file:./screens/shopping-cart/":
+"@screens/shopping-cart@file:./screens/shopping-cart":
   version "1.0.0"
 
 "@screens/signature@file:./screens/signature":
