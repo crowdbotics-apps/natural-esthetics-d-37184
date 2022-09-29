@@ -1257,7 +1257,7 @@
     redux-thunk "^2.4.1"
     reselect "^4.1.5"
 
-"@screens/about-the-app@file:./screens/about-the-app/":
+"@screens/about-the-app@file:./screens/about-the-app":
   version "1.0.0"
 
 "@screens/account-settings@file:./screens/account-settings":
@@ -1306,6 +1306,9 @@
   version "1.0.0"
 
 "@screens/profile@file:./screens/profile":
+  version "1.0.0"
+
+"@screens/shopping-cart@file:./screens/shopping-cart/":
   version "1.0.0"
 
 "@screens/signature@file:./screens/signature":

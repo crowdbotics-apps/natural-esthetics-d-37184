@@ -38,6 +38,7 @@
     "@screens/product-listing": "file:./screens/product-listing/",
     "@screens/product-recommendation": "file:./screens/product-recommendation/",
     "@screens/profile": "file:./screens/profile/",
+    "@screens/shopping-cart": "file:./screens/shopping-cart/",
     "@screens/signature": "file:./screens/signature/",
     "@screens/signup": "file:./screens/signup/",
     "@screens/support-faq": "file:./screens/support-faq/",
