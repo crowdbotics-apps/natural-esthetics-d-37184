@@ -64,6 +64,7 @@ This section will show any installed modules you add from the Storyboard Modules
 - [terms-and-conditions]()
 - [screen-support-faq](screens/support-faq)
 - [screen-support-send-feedback](screens/support-send-feedback)
+- [react-native-splash](modules/splash)
 
 # Getting started: Frontend
 
